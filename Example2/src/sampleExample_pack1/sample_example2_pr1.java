@@ -1,4 +1,4 @@
-package sampleExample2;
+package sampleExample_pack1;
 
 public class sample_example2_pr1 {
 
